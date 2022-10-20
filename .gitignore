@@ -1,2 +1,5 @@
 /progtest/*.filters
 /progtest/*.user
+/progtest/.vs
+/progtest/Release
+/progtest/Debug
